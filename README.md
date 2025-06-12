@@ -18,7 +18,7 @@ This is my personal portfolio site, built with HTML and CSS, designed to showcas
 
 ### 🚀 Live Site
 
-[🔗 Visit the site](https://howardgoldsmith.github.io)
+[🔗 Visit the site](https://hcgoldsmithjr.github.io)
 
 ---
 
